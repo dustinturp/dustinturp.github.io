@@ -1,14 +1,14 @@
 ---
 date: 2017-09-28T08:00:00+06:00
-title: Scheduel
+title: Events
 authors: ["derpinturp"]
 menu: main
-slug: scheduel
+slug: events
 weight: -230
 ---
 Scheduel of events
 
-{{% center %}}
+
 
 # YPG/GeoSTL: Geospatial Tech Talk - October, 15th
 
@@ -28,7 +28,7 @@ Let's plan events for 2019! Have a project idea? A topic you want to be covered?
 
   * Meeting [Link](​https://meet.jit.si/GeoSTL2019Planning)
 
-Some Events to Vote on...
+Some Events to Vote on.
 
   * Drone day 2.0 & processing imagery event
   * Mapbox Styles
@@ -43,8 +43,6 @@ Some Events to Vote on...
 **Tickets:** tito link
 
 
-
-{{% center %}}
 # Heading 4
 
 
