@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    /* banner */
+}
+.container {
+    /*container things */
+    background-color: aquamarine;
+}
+#main-bio {
+    /* whole page body*/
+    width: 70%;
+}
+#bio-image {
+    /*image for page make a circle*/
+}
+#contact-info {
+    /* add things */
+}
