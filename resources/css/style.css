@@ -4,6 +4,8 @@
 
 header {
     /* banner */
+    text-align: center;
+    font-size: 36px;
 }
 .container {
     /*container things */
@@ -15,6 +17,10 @@ header {
 }
 #bio-image {
     /*image for page make a circle*/
+    object-fit: cover;
+    width: 275px;
+    height: 275px;
+    border-radius: 50%;
 }
 #contact-info {
     /* add things */
